@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+Creating a footer with React and Styled Components: https://www.youtube.com/watch?v=SdWJj1LSQPE
+
+I wasn't convinced by Styled Components in this tutorial. It looks overly-complicated.
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
